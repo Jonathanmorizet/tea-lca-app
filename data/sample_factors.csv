@@ -1,0 +1,19 @@
+Material,Unit,Unit Cost ($),kg CO2-Eq/Unit,kg SO2-Eq/Unit,kg N-Eq/Unit,CTUe/Unit
+Transplants (initial),transplants,1.75,0.50,0.0015,0.0008,2.0
+Transplants (replant),transplants,1.75,0.50,0.0015,0.0008,2.0
+Fertilizer (19-19-19),lb,0.55,0.76,0.0040,0.0035,8.0
+Roundup (Glyphosate),oz,0.22,0.10,0.0004,0.0009,1.5
+Roundup – Low Dose (Mow),oz,0.22,0.10,0.0004,0.0009,1.5
+"Crossbow (2,4-D + triclopyr)",oz,0.35,0.12,0.0005,0.0007,2.0
+Trico Pro (sheep fat 6.4%),gal,95.00,2.40,0.008,0.004,5.0
+TriStar 30 SG (acetamiprid),oz,2.50,0.18,0.0006,0.0005,3.0
+Envidor 2SC (spirodiclofen),oz,1.80,0.16,0.0005,0.0004,2.5
+Sivanto 200 SL (flupyradifurone),oz,2.20,0.16,0.0005,0.0004,2.5
+Sniper EC (bifenthrin),oz,0.90,0.20,0.0007,0.0004,3.5
+12 HP Tractor Use,PMH,32.00,0.40,0.002,0.0005,1.0
+Diesel – Tractor (Deer Mgmt),MJ,0.027,0.095,0.0006,0.00015,0.4
+Chainsaw (Shearing),PMH,28.00,0.30,0.0015,0.0004,0.8
+Diesel Equivalent – Chainsaw Shearing,MJ,0.027,0.095,0.0006,0.00015,0.4
+Chainsaw (Harvest),PMH,28.00,0.30,0.0015,0.0004,0.8
+Diesel Equivalent – Chainsaw Harvest,MJ,0.027,0.095,0.0006,0.00015,0.4
+Baling net (polypropylene),kg,4.50,2.10,0.006,0.001,4.0
